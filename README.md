@@ -7,5 +7,10 @@ This is a click to move arcade-like fast-paced cooking game. When Customers seat
 ## Project's future
 This project will be improved and continued at some point
 
+## Assets
+
+Character asset - [Sprout Lands by Cup Nooble](https://cupnooble.itch.io/sprout-lands-asset-pack)
+
+Room asset - [Modern Interiors by LimeZu](https://limezu.itch.io/moderninteriors)
 
 **Thank you for checking out!**
